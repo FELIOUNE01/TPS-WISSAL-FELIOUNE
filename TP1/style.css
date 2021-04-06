@@ -1,0 +1,20 @@
+
+    h1{
+      color : #5f939a;
+      font-family: Georgia, serif;
+    }
+    p,table,ul{
+      font-family: cursive;
+    }
+    .imgcirculaire{
+      border-radius: 100%;
+
+    }
+    .center {
+      text-align: center;
+
+    }
+    #cv_header
+    {
+      background-color: #caf7e3;
+    }
