@@ -1,0 +1,21 @@
+
+    h1{
+      color : #5f939a;
+      font-family: Georgia, serif;
+    }
+    p,table,ul{
+      font-family: cursive;
+      font-size: 20px
+    }
+    .imgcirculaire{
+      border-radius: 100%;
+
+    }
+    .center {
+      text-align: center;
+
+    }
+
+body{
+  background-color: #f7f3e9;
+}
