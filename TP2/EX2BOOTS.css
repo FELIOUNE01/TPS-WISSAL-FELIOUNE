@@ -1,0 +1,82 @@
+body
+{
+  background-color: #faf2da;
+}
+#en-tête
+{
+  background-color: #ca8a8b;
+  height: 200px;
+  border: solid blue 2px;
+  margin-top: 10px;
+
+}
+#T0
+{
+  background-color: #e7d4b5;
+  border: solid blue 2px;
+  height: 200px;
+  margin-top: 10px;
+}
+#T1
+{
+
+  background-color: #8e9775;
+
+  height: 200px;
+  border: solid blue 2px;
+
+  margin-top: 10px;
+}
+#T2
+{
+
+  background-color: #766161;
+
+  height: 200px;
+  border: solid blue 2px;
+margin-top: 10px;
+}
+#T3
+{
+
+  background-color: #87a7b3;
+
+  height: 200px;
+  border: solid blue 2px;
+margin-top: 10px;
+}
+#T4
+{
+
+  background-color: #cdc7be;
+
+  height: 200px;
+  border: solid blue 2px;
+margin-top: 10px;
+}
+#T5
+{
+
+  background-color: #e1f1dd;
+
+height: 200px;
+  border: solid blue 2pxA;
+  margin-top: 10px;
+}
+#T6
+{
+
+  background-color: #aad8d3;
+
+  height: 200px;
+  border: solid blue 2px;
+
+  margin-top: 10px;
+}
+#Pied
+{
+  background-color: blue;
+  border: solid blue 2px;
+  margin-top: 10px;
+  height: 200px;
+}
