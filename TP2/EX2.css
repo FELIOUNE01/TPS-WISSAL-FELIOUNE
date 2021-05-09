@@ -1,0 +1,255 @@
+
+<! -- QUESTION1-->
+body
+{
+  background-color: #faf2da;
+}
+#en-tête
+{
+  background-color: #ca8a8b;
+  height: 200px;
+  border: solid blue 2px;
+  margin-bottom:  3px;
+}
+#T0
+{
+  background-color: #e7d4b5;
+  border: solid blue 2px;
+  height: 100px;
+  margin-top: 10px;
+}
+#T1
+{
+  display: inline-block;
+  background-color: #8e9775;
+  width: 300px;
+  height : 300px;
+  border: solid blue 2px;
+  margin-bottom: 2px;
+  margin-top: 10px;
+}
+#T2
+{
+  display: inline-block;
+  background-color: #766161;
+  width: 300px;
+  height : 300px;
+  border: solid blue 2px;
+  margin-left: 35px;
+}
+#T3
+{
+  display: inline-block;
+  background-color: #87a7b3;
+  width: 300px;
+  height : 300px;
+  border: solid blue 2px;
+  margin-left: 35px;
+}
+#T4
+{
+  display: inline-block;
+  background-color: #cdc7be;
+  width: 300px;
+  height : 300px;
+  border: solid blue 2px;
+  margin-left: 35px;
+}
+#T5
+{
+  display: inline-block;
+  background-color: #e1f1dd;
+  width: 642px;
+  height : 300px;
+  border: solid blue 2px;
+  margin-top: 10px;
+}
+#T6
+{
+  display: inline-block;
+  background-color: #aad8d3;
+  width: 642px;
+  height : 300px;
+  border: solid blue 2px;
+  margin-left: 35px;
+  margin-top: 10px;
+}
+#Pied
+{
+  background-color: blue;
+  border: solid blue 2px;
+  margin-top: 10px;
+}
+<! -- QUESTION2-->
+<! -- TABLETTE-->
+@media only screen and (min-width:600px) and (max-width:800px)
+{
+
+  #en-tête
+  {
+    background-color: #ca8a8b;
+      width: 100%;
+    height:50px;
+    border: solid blue 2px;
+    margin-bottom:  3px;
+  }
+  #T0
+  {
+    background-color: #e7d4b5;
+    border: solid blue 2px;
+    width: 100%;
+  height:50px;
+    margin-top: 10px;
+  }
+  #T1
+  {
+      display: inline-block;
+      width: 45%;
+    height:50px;
+      border: solid dark 2px;
+
+  }
+  #T2
+  {
+    display: inline-block;
+    width: 45%;
+  height:50px;
+    border: solid blue 2px;
+  margin-left: 40px;
+
+  }
+  #T3
+  {
+    display: inline-block;
+    width: 45%;
+  height:50px;
+    border: solid blue 2px;
+    margin-left: 0px;
+
+  }
+  #T4
+  {
+    display: inline-block;
+    width: 45%;
+  height:50px;
+    border: solid blue 2px;
+    margin-top: 10px;
+    margin-left: 40px;
+
+
+  }
+  #T5
+  {
+    display: inline-block;
+    background-color: #e1f1dd;
+    width: 100%;
+  height:50px;
+    border: solid blue 2px;
+    margin-top: 10px;
+  }
+  #T6
+  {
+    display: inline-block;
+    background-color: #aad8d3;
+    width: 100%;
+  height:50px;
+    border: solid blue 2px;
+    margin-left: 0px;
+    margin-top: 10px;
+  }
+  #Pied
+  {
+    background-color: blue;
+    border: solid blue 2px;
+    margin-top: 10px;
+    width: 100%;
+  height:50px;
+  }
+
+}
+<! -- TELEPHONE-->
+  @media only screen and (max-width:600px)
+{
+
+  #en-tête
+  {
+    background-color: #ca8a8b;
+      width: 100%;
+    height:50px;
+    border: solid blue 2px;
+    margin-bottom:  3px;
+  }
+  #T0
+  {
+    background-color: #e7d4b5;
+    border: solid blue 2px;
+    width: 100%;
+  height:50px;
+    margin-top: 10px;
+  }
+  #T1
+  {
+      display: inline-block;
+      width: 100%;
+    height:50px;
+      border: solid dark 2px;
+
+  }
+  #T2
+  {
+    display: inline-block;
+    width: 100%;
+    height:50px;
+    border: solid blue 2px;
+    margin-left: 0px;
+
+  }
+  #T3
+  {
+    display: inline-block;
+    width: 100%;
+  height:50px;
+    border: solid blue 2px;
+    margin-left: 0px;
+
+  }
+  #T4
+  {
+    display: inline-block;
+    width: 100%;
+  height:50px;
+    border: solid blue 2px;
+    margin-top: 10px;
+  margin-left: 0px;
+
+
+  }
+  #T5
+  {
+    display: inline-block;
+    background-color: #e1f1dd;
+    width: 100%;
+  height:50px;
+    border: solid blue 2px;
+    margin-top: 10px;
+  }
+  #T6
+  {
+    display: inline-block;
+    background-color: #aad8d3;
+    width: 100%;
+  height:50px;
+    border: solid blue 2px;
+    margin-left: 0px;
+    margin-top: 10px;
+  }
+  #Pied
+  {
+    background-color: blue;
+    border: solid blue 2px;
+    margin-top: 10px;
+    width: 100%;
+  height:50px;
+  }
+
+  }
