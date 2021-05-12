@@ -7,10 +7,7 @@ img
 {
   position: absolute;
    WIDTH:570px;
-   height: 500px;
-   right:680px;
-   border-radius: 10px;
-
+   height:500px;
 
 }
 #t2
@@ -22,11 +19,14 @@ h4
 {
   margin-right: 30px;
 }
-a {
-  margin-left: 200px;
-  color: #437A16;
-}
+
 .bord
 {
   border: 1px dashed lightgrey;
+
+}
+a{
+  position: absolute;
+  margin-left: 20px;
+  line-height: 2px;
 }
